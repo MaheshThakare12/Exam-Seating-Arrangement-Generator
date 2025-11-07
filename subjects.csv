@@ -1,0 +1,20 @@
+Subject,branchType,Exam_Date,Class,Duration
+Mathematics,Common,10-06-2025 0.00,First Year,3 hours
+Physics,Common,12-06-2025 0.00,First Year,3 hours
+Chemistry,Common,14-06-2025 0.00,First Year,3 hours
+Engineering Mechanics,Common,16-06-2025 0.00,First Year,3 hours
+Basic Electrical Engineering,Common,18-06-2025 0.00,First Year,3 hours
+Computer Programming,Common,20-06-2025 0.00,First Year,3 hours
+Engineering Graphics,Common,22-06-2025 0.00,First Year,3 hours
+Environmental Studies,Common,24-06-2025 0.00,First Year,3 hours
+Workshop Practice,Common,26-06-2025 0.00,First Year,3 hours
+Structural Mechanics,Civil Engineering,28-06-2025 0.00,First Year,3 hours
+Surveying,Civil Engineering,30-06-2025 0.00,First Year,3 hours
+Thermodynamics,Mechanical Engineering,02-07-2025 0.00,First Year,3 hours
+Machine Design,Mechanical Engineering,04-07-2025 0.00,First Year,3 hours
+Circuit Theory,Electrical Engineering,06-07-2025 0.00,First Year,3 hours
+Power Systems,Electrical Engineering,08-07-2025 0.00,First Year,3 hours
+Data Structures,Information Technology,10-07-2025 0.00,First Year,3 hours
+Web Technologies,Information Technology,12-07-2025 0.00,First Year,3 hours
+Operating Systems,Computer Science,14-07-2025 0.00,First Year,3 hours
+Database Management Systems,Computer Science,16-07-2025 0.00,First Year,3 hours

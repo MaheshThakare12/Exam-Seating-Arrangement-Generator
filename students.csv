@@ -1,0 +1,501 @@
+PRN_Number,Student_Name,Branch,Year
+CO25001,Jahnvi Reddy,Computer Science,FE
+CO25002,Jai Malhotra,Computer Science,FE
+CO25003,Kiaan Joshi,Computer Science,FE
+CO25004,Krishna Singh,Computer Science,FE
+CO25005,Kruti Bansal,Computer Science,FE
+CO25006,Kunal Sethi,Computer Science,FE
+CO25007,Aditya Verma,Computer Science,FE
+CO25008,Sneha Patil,Computer Science,FE
+CO25009,Aryan Gupta,Computer Science,FE
+CO25010,Ishita Singh,Computer Science,FE
+CO25011,Karan Malhotra,Computer Science,FE
+CO25012,Ananya Deshmukh,Computer Science,FE
+CO25013,Nikhil Reddy,Computer Science,FE
+CO25014,Divya Joshi,Computer Science,FE
+CO25015,Manav Kapoor,Computer Science,FE
+CO25016,Simran Kaur,Computer Science,FE
+CO25017,Tanmay Dubey,Computer Science,FE
+CO25018,Avni Shah,Computer Science,FE
+CO25019,Harshad Rao,Computer Science,FE
+CO25020,Neha Bhatia,Computer Science,FE
+CO25021,Vedant Sinha,Computer Science,FE
+CO25022,Aditi Ghosh,Computer Science,FE
+CO25023,Rahul Khanna,Computer Science,FE
+CO25024,Meera Pillai,Computer Science,FE
+CO25025,Ayush Jain,Computer Science,FE
+CO25026,Isha Kulkarni,Computer Science,FE
+CO25027,Chirag Patel,Computer Science,FE
+CO25028,Nivedita Das,Computer Science,FE
+CO25029,Abhishek Tiwari,Computer Science,FE
+CO25030,Riya Menon,Computer Science,FE
+CO25031,Devansh Chauhan,Computer Science,FE
+CO25032,Tanvi Joshi,Computer Science,FE
+CO25033,Arnav Yadav,Computer Science,FE
+CO25034,Shreya Raut,Computer Science,FE
+CO25035,Keshav Bhatt,Computer Science,FE
+CO25036,Muskan Jha,Computer Science,FE
+CO25037,Parth Desai,Computer Science,FE
+CO25038,Pooja Sethi,Computer Science,FE
+CO25039,Hriday Kumar,Computer Science,FE
+CO25040,Krisha Chatterjee,Computer Science,FE
+CO25041,Nishant Pathak,Computer Science,FE
+CO25042,Mitali Sen,Computer Science,FE
+CO25043,Rajesh Pawar,Computer Science,FE
+CO25044,Deepika Gaur,Computer Science,FE
+CO25045,Arjun Sharma,Computer Science,FE
+CO25046,Kritika Mishra,Computer Science,FE
+CO25047,Sandeep Chauhan,Computer Science,FE
+CO25048,Rachita Singh,Computer Science,FE
+CO25049,Vivek Joshi,Computer Science,FE
+CO25050,Aastha Patel,Computer Science,FE
+CO25051,Mohit Reddy,Computer Science,FE
+CO25052,Nandini Das,Computer Science,FE
+CO25053,Ritesh Bansal,Computer Science,FE
+CO25054,Shruti Nair,Computer Science,FE
+CO25055,Gaurav Malhotra,Computer Science,FE
+CO25056,Aishwarya Pillai,Computer Science,FE
+CO25057,Sumit Tiwari,Computer Science,FE
+CO25058,Bhavana Reddy,Computer Science,FE
+CO25059,Rohit Soni,Computer Science,FE
+CO25060,Sakshi Patil,Computer Science,FE
+CO25061,Aman Dubey,Computer Science,FE
+CO25062,Anjali Meena,Computer Science,FE
+CO25063,Kunal Shukla,Computer Science,FE
+CO25064,Charvi Patel,Computer Science,FE
+CO25065,Ritesh Yadav,Computer Science,FE
+CO25066,Diya Kapoor,Computer Science,FE
+CO25067,Ashwin Rao,Computer Science,FE
+CO25068,Snehal Patil,Computer Science,FE
+CO25069,Harshit Verma,Computer Science,FE
+CO25070,Shalini Iyer,Computer Science,FE
+CO25071,Tushar Singh,Computer Science,FE
+CO25072,Pranjal Reddy,Computer Science,FE
+CO25073,Nisha Jain,Computer Science,FE
+CO25074,Adarsh Nair,Computer Science,FE
+CO25075,Kavita Sharma,Computer Science,FE
+CO25076,Yash Goyal,Computer Science,FE
+CO25077,Rachit Bhatnagar,Computer Science,FE
+CO25078,Shreya Dubey,Computer Science,FE
+CO25079,Dev Patel,Computer Science,FE
+CO25080,Ishani Mehta,Computer Science,FE
+CO25081,Piyush Tiwari,Computer Science,FE
+CO25082,Aarohi Sinha,Computer Science,FE
+CO25083,Manish Rawat,Computer Science,FE
+CO25084,Ritika Sen,Computer Science,FE
+CO25085,Sarthak Mishra,Computer Science,FE
+CO25086,Nisha Reddy,Computer Science,FE
+CO25087,Raghav Gupta,Computer Science,FE
+CO25088,Mitali Nair,Computer Science,FE
+CO25089,Arpit Sharma,Computer Science,FE
+CO25090,Sneha Das,Computer Science,FE
+CO25091,Adarsh Pillai,Computer Science,FE
+CO25092,Kriti Verma,Computer Science,FE
+CO25093,Ayaan Mehta,Computer Science,FE
+CO25094,Tania Singh,Computer Science,FE
+CO25095,Mohan Chauhan,Computer Science,FE
+CO25096,Priyanka Joshi,Computer Science,FE
+CO25097,Shlok Patel,Computer Science,FE
+CO25098,Rutuja Patil,Computer Science,FE
+CO25099,Karan Jha,Computer Science,FE
+CO25100,Neelam Gaur,Computer Science,FE
+IT250101,Devendra Rao,Information Technology,FE
+IT250102,Aishwarya Desai,Information Technology,FE
+IT250103,Aniket Bansal,Information Technology,FE
+IT250104,Tanvi Malhotra,Information Technology,FE
+IT250105,Dhruv Mehta,Information Technology,FE
+IT250106,Isha Reddy,Information Technology,FE
+IT250107,Arnav Kapoor,Information Technology,FE
+IT250108,Shruti Sharma,Information Technology,FE
+IT250109,Nikhil Singh,Information Technology,FE
+IT250110,Ananya Patel,Information Technology,FE
+IT250111,Vedant Joshi,Information Technology,FE
+IT250112,Riya Iyer,Information Technology,FE
+IT250113,Aditya Rao,Information Technology,FE
+IT250114,Simran Verma,Information Technology,FE
+IT250115,Harshad Gupta,Information Technology,FE
+IT250116,Neha Dubey,Information Technology,FE
+IT250117,Tanmay Kaur,Information Technology,FE
+IT250118,Manav Shah,Information Technology,FE
+IT250119,Aastha Ghosh,Information Technology,FE
+IT250120,Kunal Tiwari,Information Technology,FE
+IT250121,Meera Deshmukh,Information Technology,FE
+IT250122,Aryan Sinha,Information Technology,FE
+IT250123,Ishita Raut,Information Technology,FE
+IT250124,Rohan Pillai,Information Technology,FE
+IT250125,Karan Menon,Information Technology,FE
+IT250126,Divya Yadav,Information Technology,FE
+IT250127,Arya Sharma,Information Technology,FE
+IT250128,Abhishek Kapoor,Information Technology,FE
+IT250129,Priya Bhatia,Information Technology,FE
+IT250130,Ritesh Jain,Information Technology,FE
+IT250131,Anjali Reddy,Information Technology,FE
+IT250132,Shreya Chatterjee,Information Technology,FE
+IT250133,Parth Malhotra,Information Technology,FE
+IT250134,Pooja Patil,Information Technology,FE
+IT250135,Mitali Joshi,Information Technology,FE
+IT250136,Raghav Iyer,Information Technology,FE
+IT250137,Kriti Singh,Information Technology,FE
+IT250138,Ayaan Shah,Information Technology,FE
+IT250139,Rohit Gaur,Information Technology,FE
+IT250140,Sneha Rao,Information Technology,FE
+IT250141,Dhruv Dubey,Information Technology,FE
+IT250142,Aarohi Gupta,Information Technology,FE
+IT250143,Manish Verma,Information Technology,FE
+IT250144,Ritika Sethi,Information Technology,FE
+IT250145,Sarthak Mehta,Information Technology,FE
+IT250146,Nisha Reddy,Information Technology,FE
+IT250147,Vedant Malhotra,Information Technology,FE
+IT250148,Simran Joshi,Information Technology,FE
+IT250149,Tanvi Kapoor,Information Technology,FE
+IT250150,Aditya Sharma,Information Technology,FE
+IT250151,Ananya Patil,Information Technology,FE
+IT250152,Rohit Singh,Information Technology,FE
+IT250153,Neha Ghosh,Information Technology,FE
+IT250154,Aarav Dubey,Information Technology,FE
+IT250155,Isha Mehta,Information Technology,FE
+IT250156,Aryan Tiwari,Information Technology,FE
+IT250157,Kavya Shah,Information Technology,FE
+IT250158,Manav Verma,Information Technology,FE
+IT250159,Aditi Rao,Information Technology,FE
+IT250160,Raghav Reddy,Information Technology,FE
+IT250161,Priya Joshi,Information Technology,FE
+IT250162,Tanmay Malhotra,Information Technology,FE
+IT250163,Divya Kapoor,Information Technology,FE
+IT250164,Kunal Singh,Information Technology,FE
+IT250165,Shruti Gaur,Information Technology,FE
+IT250166,Anjali Dubey,Information Technology,FE
+IT250167,Ritesh Sharma,Information Technology,FE
+IT250168,Shreya Verma,Information Technology,FE
+IT250169,Ayaan Patil,Information Technology,FE
+IT250170,Mitali Mehta,Information Technology,FE
+IT250171,Parth Joshi,Information Technology,FE
+IT250172,Pooja Reddy,Information Technology,FE
+IT250173,Vedant Kapoor,Information Technology,FE
+IT250174,Kriti Sharma,Information Technology,FE
+IT250175,Rohit Singh,Information Technology,FE
+IT250176,Sneha Ghosh,Information Technology,FE
+IT250177,Dhruv Rao,Information Technology,FE
+IT250178,Ananya Dubey,Information Technology,FE
+IT250179,Aryan Mehta,Information Technology,FE
+IT250180,Isha Tiwari,Information Technology,FE
+IT250181,Manish Shah,Information Technology,FE
+IT250182,Ritika Verma,Information Technology,FE
+IT250183,Sarthak Rao,Information Technology,FE
+IT250184,Tanvi Dubey,Information Technology,FE
+IT250185,Kavya Ghosh,Information Technology,FE
+IT250186,Aditya Singh,Information Technology,FE
+IT250187,Aarav Joshi,Information Technology,FE
+IT250188,Priya Reddy,Information Technology,FE
+IT250189,Rohan Kapoor,Information Technology,FE
+IT250190,Simran Sharma,Information Technology,FE
+IT250191,Harshad Verma,Information Technology,FE
+IT250192,Neha Patil,Information Technology,FE
+IT250193,Tanmay Mehta,Information Technology,FE
+IT250194,Divya Shah,Information Technology,FE
+IT250195,Aastha Dubey,Information Technology,FE
+IT250196,Kunal Ghosh,Information Technology,FE
+IT250197,Mitali Singh,Information Technology,FE
+IT250198,Raghav Joshi,Information Technology,FE
+IT250199,Anjali Reddy,Information Technology,FE
+IT250200,Pooja Kapoor,Information Technology,FE
+ME250201,Shreya Sharma,Mechanical,FE
+ME250202,Ayaan Verma,Mechanical,FE
+ME250203,Vedant Patil,Mechanical,FE
+ME250204,Rohit Mehta,Mechanical,FE
+ME250205,Sneha Shah,Mechanical,FE
+ME250206,Dhruv Dubey,Mechanical,FE
+ME250207,Aryan Ghosh,Mechanical,FE
+ME250208,Isha Singh,Mechanical,FE
+ME250209,Manav Joshi,Mechanical,FE
+ME250210,Tanvi Reddy,Mechanical,FE
+ME250211,Kriti Kapoor,Mechanical,FE
+ME250212,Ritesh Sharma,Mechanical,FE
+ME250213,Ananya Verma,Mechanical,FE
+ME250214,Shruti Patil,Mechanical,FE
+ME250215,Parth Mehta,Mechanical,FE
+ME250216,Pooja Shah,Mechanical,FE
+ME250217,Aarohi Dubey,Mechanical,FE
+ME250218,Manish Ghosh,Mechanical,FE
+ME250219,Ritika Singh,Mechanical,FE
+ME250220,Sarthak Joshi,Mechanical,FE
+ME250221,Neha Reddy,Mechanical,FE
+ME250222,Vedant Kapoor,Mechanical,FE
+ME250223,Simran Sharma,Mechanical,FE
+ME250224,Tanmay Verma,Mechanical,FE
+ME250225,Aditya Patil,Mechanical,FE
+ME250226,Ananya Mehta,Mechanical,FE
+ME250227,Rohit Shah,Mechanical,FE
+ME250228,Priya Dubey,Mechanical,FE
+ME250229,Aarav Ghosh,Mechanical,FE
+ME250230,Isha Singh,Mechanical,FE
+ME250231,Aryan Joshi,Mechanical,FE
+ME250232,Kavya Reddy,Mechanical,FE
+ME250233,Manav Kapoor,Mechanical,FE
+ME250234,Aditi Sharma,Mechanical,FE
+ME250235,Raghav Verma,Mechanical,FE
+ME250236,Neha Patil,Mechanical,FE
+ME250237,Tanvi Mehta,Mechanical,FE
+ME250238,Divya Shah,Mechanical,FE
+ME250239,Aastha Dubey,Mechanical,FE
+ME250240,Kunal Ghosh,Mechanical,FE
+ME250241,Mitali Singh,Mechanical,FE
+ME250242,Raghav Joshi,Mechanical,FE
+ME250243,Anjali Reddy,Mechanical,FE
+ME250244,Pooja Kapoor,Mechanical,FE
+ME250245,Shreya Sharma,Mechanical,FE
+ME250246,Ayaan Verma,Mechanical,FE
+ME250247,Vedant Patil,Mechanical,FE
+ME250248,Rohit Mehta,Mechanical,FE
+ME250249,Sneha Shah,Mechanical,FE
+ME250250,Dhruv Dubey,Mechanical,FE
+ME250251,Aryan Ghosh,Mechanical,FE
+ME250252,Isha Singh,Mechanical,FE
+ME250253,Manav Joshi,Mechanical,FE
+ME250254,Tanvi Reddy,Mechanical,FE
+ME250255,Kriti Kapoor,Mechanical,FE
+ME250256,Ritesh Sharma,Mechanical,FE
+ME250257,Ananya Verma,Mechanical,FE
+ME250258,Shruti Patil,Mechanical,FE
+ME250259,Parth Mehta,Mechanical,FE
+ME250260,Pooja Shah,Mechanical,FE
+ME250261,Aarohi Dubey,Mechanical,FE
+ME250262,Manish Ghosh,Mechanical,FE
+ME250263,Ritika Singh,Mechanical,FE
+ME250264,Sarthak Joshi,Mechanical,FE
+ME250265,Neha Reddy,Mechanical,FE
+ME250266,Vedant Kapoor,Mechanical,FE
+ME250267,Simran Sharma,Mechanical,FE
+ME250268,Tanmay Verma,Mechanical,FE
+ME250269,Aditya Patil,Mechanical,FE
+ME250270,Ananya Mehta,Mechanical,FE
+ME250271,Rohit Shah,Mechanical,FE
+ME250272,Priya Dubey,Mechanical,FE
+ME250273,Aarav Ghosh,Mechanical,FE
+ME250274,Isha Singh,Mechanical,FE
+ME250275,Aryan Joshi,Mechanical,FE
+ME250276,Kavya Reddy,Mechanical,FE
+ME250277,Manav Kapoor,Mechanical,FE
+ME250278,Aditi Sharma,Mechanical,FE
+ME250279,Raghav Verma,Mechanical,FE
+ME250280,Neha Patil,Mechanical,FE
+ME250281,Tanvi Mehta,Mechanical,FE
+ME250282,Divya Shah,Mechanical,FE
+ME250283,Aastha Dubey,Mechanical,FE
+ME250284,Kunal Ghosh,Mechanical,FE
+ME250285,Mitali Singh,Mechanical,FE
+ME250286,Raghav Joshi,Mechanical,FE
+ME250287,Anjali Reddy,Mechanical,FE
+ME250288,Pooja Kapoor,Mechanical,FE
+ME250289,Shreya Sharma,Mechanical,FE
+ME250290,Ayaan Verma,Mechanical,FE
+ME250291,Vedant Patil,Mechanical,FE
+ME250292,Rohit Mehta,Mechanical,FE
+ME250293,Sneha Shah,Mechanical,FE
+ME250294,Dhruv Dubey,Mechanical,FE
+ME250295,Aryan Ghosh,Mechanical,FE
+ME250296,Isha Singh,Mechanical,FE
+ME250297,Manav Joshi,Mechanical,FE
+ME250298,Tanvi Reddy,Mechanical,FE
+ME250299,Kriti Kapoor,Mechanical,FE
+ME250300,Ritesh Sharma,Mechanical,FE
+EN250301,Ananya Verma,Electrical,FE
+EN250302,Shruti Patil,Electrical,FE
+EN250303,Parth Mehta,Electrical,FE
+EN250304,Pooja Shah,Electrical,FE
+EN250305,Aarohi Dubey,Electrical,FE
+EN250306,Manish Ghosh,Electrical,FE
+EN250307,Ritika Singh,Electrical,FE
+EN250308,Sarthak Joshi,Electrical,FE
+EN250309,Neha Reddy,Electrical,FE
+EN250310,Vedant Kapoor,Electrical,FE
+EN250311,Simran Sharma,Electrical,FE
+EN250312,Tanmay Verma,Electrical,FE
+EN250313,Aditya Patil,Electrical,FE
+EN250314,Ananya Mehta,Electrical,FE
+EN250315,Rohit Shah,Electrical,FE
+EN250316,Priya Dubey,Electrical,FE
+EN250317,Aarav Ghosh,Electrical,FE
+EN250318,Isha Singh,Electrical,FE
+EN250319,Aryan Joshi,Electrical,FE
+EN250320,Kavya Reddy,Electrical,FE
+EN250321,Manav Kapoor,Electrical,FE
+EN250322,Aditi Sharma,Electrical,FE
+EN250323,Raghav Verma,Electrical,FE
+EN250324,Neha Patil,Electrical,FE
+EN250325,Tanvi Mehta,Electrical,FE
+EN250326,Divya Shah,Electrical,FE
+EN250327,Aastha Dubey,Electrical,FE
+EN250328,Kunal Ghosh,Electrical,FE
+EN250329,Mitali Singh,Electrical,FE
+EN250330,Raghav Joshi,Electrical,FE
+EN250331,Anjali Reddy,Electrical,FE
+EN250332,Pooja Kapoor,Electrical,FE
+EN250333,Shreya Sharma,Electrical,FE
+EN250334,Ayaan Verma,Electrical,FE
+EN250335,Vedant Patil,Electrical,FE
+EN250336,Rohit Mehta,Electrical,FE
+EN250337,Sneha Shah,Electrical,FE
+EN250338,Dhruv Dubey,Electrical,FE
+EN250339,Aryan Ghosh,Electrical,FE
+EN250340,Naina Sharma,Electrical,FE
+EN250341,Navya Patel,Electrical,FE
+EN250342,Neel Joshi,Electrical,FE
+EN250343,Niharika Reddy,Electrical,FE
+EN250344,Nikhil Bhatia,Electrical,FE
+EN250345,Niha Mehta,Electrical,FE
+EN250346,Parth Shah,Electrical,FE
+EN250347,Pari Menon,Electrical,FE
+EN250348,Pranav Singh,Electrical,FE
+EN250349,Prisha Ghosh,Electrical,FE
+EN250350,Priyansh Verma,Electrical,FE
+EN250351,Rachit Kapoor,Electrical,FE
+EN250352,Raghav Mehta,Electrical,FE
+EN250353,Raima Joshi,Electrical,FE
+EN250354,Riaan Rao,Electrical,FE
+EN250355,Riddhi Pillai,Electrical,FE
+EN250356,Rishabh Sharma,Electrical,FE
+EN250357,Ritika Dubey,Electrical,FE
+EN250358,Riya Verma,Electrical,FE
+EN250359,Ronav Gupta,Electrical,FE
+EN250360,Saanvi Singh,Electrical,FE
+EN250361,Sahil Kapoor,Electrical,FE
+EN250362,Sakshi Mehta,Electrical,FE
+EN250363,Samarth Joshi,Electrical,FE
+EN250364,Sanvi Rao,Electrical,FE
+EN250365,Sanyam Sharma,Electrical,FE
+EN250366,Shaurya Bhatia,Electrical,FE
+EN250367,Shivani Pillai,Electrical,FE
+EN250368,Shreya Raut,Electrical,FE
+EN250369,Shubham Dubey,Electrical,FE
+EN250370,Shruti Verma,Electrical,FE
+EN250371,Siddhant Kapoor,Electrical,FE
+EN250372,Simran Joshi,Electrical,FE
+EN250373,Tanvi Mehta,Electrical,FE
+EN250374,Tanish Sharma,Electrical,FE
+EN250375,Tanya Rao,Electrical,FE
+EN250376,Tanishq Verma,Electrical,FE
+EN250377,Trisha Reddy,Electrical,FE
+EN250378,Vaibhav Kapoor,Electrical,FE
+EN250379,Vaani Mehta,Electrical,FE
+EN250380,Vedant Joshi,Electrical,FE
+EN250381,Vihaan Shah,Electrical,FE
+EN250382,Vidhatri Pillai,Electrical,FE
+EN250383,Vishal Dubey,Electrical,FE
+EN250384,Yash Mehra,Electrical,FE
+EN250385,Yashika Sharma,Electrical,FE
+EN250386,Zara Kapoor,Electrical,FE
+EN250387,Zain Verma,Electrical,FE
+EN250388,Aarav Raut,Electrical,FE
+EN250389,Ananya Joshi,Electrical,FE
+EN250390,Ishaan Singh,Electrical,FE
+EN250391,Kavya Shah,Electrical,FE
+EN250392,Manav Bhatia,Electrical,FE
+EN250393,Neha Mehta,Electrical,FE
+EN250394,Rohan Pillai,Electrical,FE
+EN250395,Simran Dubey,Electrical,FE
+EN250396,Tanmay Verma,Electrical,FE
+EN250397,Vedant Kapoor,Electrical,FE
+EN250398,Vedant Kapoor,Electrical,FE
+EN250399,Simran Sharma,Electrical,FE
+EN250400,Tanmay Verma,Electrical,FE
+CI250401,Kunal Sethi,Civil,FE
+CI250402,Kyra Sharma,Civil,FE
+CI250403,Lakshya Raut,Civil,FE
+CI250404,Mahi Rao,Civil,FE
+CI250405,Manya Pillai,Civil,FE
+CI250406,Manan Dubey,Civil,FE
+CI250407,Manasvi Joshi,Civil,FE
+CI250408,Isha Singh,Civil,FE
+CI250409,Aryan Joshi,Civil,FE
+CI250410,Kavya Reddy,Civil,FE
+CI250411,Manav Kapoor,Civil,FE
+CI250412,Aditi Sharma,Civil,FE
+CI250413,Raghav Verma,Civil,FE
+CI250414,Neha Patil,Civil,FE
+CI250415,Tanvi Mehta,Civil,FE
+CI250416,Divya Shah,Civil,FE
+CI250417,Aastha Dubey,Civil,FE
+CI250418,Kunal Ghosh,Civil,FE
+CI250419,Mitali Singh,Civil,FE
+CI250420,Raghav Joshi,Civil,FE
+CI250421,Anjali Reddy,Civil,FE
+CI250422,Pooja Kapoor,Civil,FE
+CI250423,Shreya Sharma,Civil,FE
+CI250424,Ayaan Verma,Civil,FE
+CI250425,Vedant Patil,Civil,FE
+CI250426,Rohit Mehta,Civil,FE
+CI250427,Sneha Shah,Civil,FE
+CI250428,Dhruv Dubey,Civil,FE
+CI250429,Aryan Ghosh,Civil,FE
+CI250430,Isha Singh,Civil,FE
+CI250431,Manav Joshi,Civil,FE
+CI250432,Tanvi Reddy,Civil,FE
+CI250433,Kriti Kapoor,Civil,FE
+CI250434,Ritesh Sharma,Civil,FE
+CI250435,Ananya Verma,Civil,FE
+CI250436,Shruti Patil,Civil,FE
+CI250437,Parth Mehta,Civil,FE
+CI250438,Pooja Shah,Civil,FE
+CI250439,Aarohi Dubey,Civil,FE
+CI250440,Manish Ghosh,Civil,FE
+CI250441,Ritika Singh,Civil,FE
+CI250442,Sarthak Joshi,Civil,FE
+CI250443,Neha Reddy,Civil,FE
+CI250444,Vedant Kapoor,Civil,FE
+CI250445,Simran Sharma,Civil,FE
+CI250446,Tanmay Verma,Civil,FE
+CI250447,Aditya Patil,Civil,FE
+CI250448,Ananya Mehta,Civil,FE
+CI250449,Rohit Shah,Civil,FE
+CI250450,Priya Dubey,Civil,FE
+CI250451,Aarav Ghosh,Civil,FE
+CI250452,Isha Singh,Civil,FE
+CI250453,Aryan Joshi,Civil,FE
+CI250454,Kavya Reddy,Civil,FE
+CI250455,Manav Kapoor,Civil,FE
+CI250456,Aditi Sharma,Civil,FE
+CI250457,,Civil,FE
+CI250458,,Civil,FE
+CI250459,Aarohi Mehta,Civil,FE
+CI250460,Advait Sharma,Civil,FE
+CI250461,Aishani Kapoor,Civil,FE
+CI250462,Akshat Reddy,Civil,FE
+CI250463,Alok Verma,Civil,FE
+CI250464,Amrita Singh,Civil,FE
+CI250465,Anvitha Ghosh,Civil,FE
+CI250466,Arhaan Dubey,Civil,FE
+CI250467,Archana Joshi,Civil,FE
+CI250468,Arnav Malhotra,Civil,FE
+CI250469,Aryahi Nair,Civil,FE
+CI250470,Ashwin Bhatia,Civil,FE
+CI250471,Avyaan Rao,Civil,FE
+CI250472,Bhavika Pillai,Civil,FE
+CI250473,Charvi Iyer,Civil,FE
+CI250474,Darsh Chauhan,Civil,FE
+CI250475,Deeksha Sinha,Civil,FE
+CI250476,Devanshi Raut,Civil,FE
+CI250477,Dhruv Shah,Civil,FE
+CI250478,Eesha Menon,Civil,FE
+CI250479,Eshan Kumar,Civil,FE
+CI250480,Gauri Tiwari,Civil,FE
+CI250481,Harini Gaur,Civil,FE
+CI250482,Harsh Kapoor,Civil,FE
+CI250483,Ishaan Patel,Civil,FE
+CI250484,Ishita Mehra,Civil,FE
+CI250485,Jahnvi Reddy,Civil,FE
+CI250486,Jai Malhotra,Civil,FE
+CI250487,Kavya Verma,Civil,FE
+CI250488,Kiaan Joshi,Civil,FE
+CI250489,Krishna Singh,Civil,FE
+CI250490,Kruti Bansal,Civil,FE
+CI250491,Kunal Sethi,Civil,FE
+CI250492,Kyra Sharma,Civil,FE
+CI250493,Lakshya Raut,Civil,FE
+CI250494,Mahi Rao,Civil,FE
+CI250495,Manya Pillai,Civil,FE
+CI250496,Manan Dubey,Civil,FE
+CI250497,Manasvi Joshi,Civil,FE
+CI250498,Mehul Gupta,Civil,FE
+CI250499,Mihika Kapoor,Civil,FE
+CI250500,Moksh Verma,Civil,FE
