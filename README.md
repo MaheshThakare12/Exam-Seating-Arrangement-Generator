@@ -38,33 +38,34 @@ File Handling & I/O — Reads CSV input and generates PDF outputs
 Multithreading (optional) — Can be extended to parallelize allocation generation
 
 📁 Project Structure
-Exam-Seating-Arrangement-Generator/
-│
-├── pom.xml                          # Maven configuration (includes iTextPDF dependency)
-├── data/
-│   ├── students.csv                 # Input student data
-│   ├── subjects.csv                 # Input subject data
-│
-├── output/
-│   ├── ExamAllocation-Common-Subjects.pdf
-│   └── ExamAllocation-Branch-Only-Subjects.pdf
-│
-├── src/
-│   ├── main/java/
-│   │   ├── model/
-│   │   │   ├── Student.java
-│   │   │   ├── Subject.java
-│   │   │   ├── ExamHall.java
-│   │   │   └── Invigilator.java
-│   │   ├── service/
-│   │   │   ├── CSVReader.java
-│   │   │   ├── SeatAllocator.java
-│   │   │   └── PDFGenerator.java
-│   │   └── main/
-│   │       └── ExamSystemExcelPDF.java   # Main entry point
-│   └── test/java/
-│       └── ...
-└── README.md
+- `pom.xml`: Maven configuration (includes iTextPDF dependency)
+  
+- `data/`: Contains input data files
+  - `students.csv`: Input student data
+  - `subjects.csv`: Input subject data
+  
+- `output/`: Directory for generated files
+  - `ExamAllocation-Common-Subjects.pdf`
+  - `ExamAllocation-Branch-Only-Subjects.pdf`
+
+- `src/`: Source code
+  - `main/java/`: Main application code
+    - `model/`: Contains model classes
+      - `Student.java`
+      - `Subject.java`
+      - `ExamHall.java`
+      - `Invigilator.java`
+    - `service/`: Contains service classes
+      - `CSVReader.java`
+      - `SeatAllocator.java`
+      - `PDFGenerator.java`
+    - `main/`: Main entry point of the application
+      - `ExamSystemExcelPDF.java`
+      
+  - `test/java/`: Contains test classes
+    - ...
+    
+- `README.md`: Project documentation
 
 ⚙️ Requirements
 
@@ -152,3 +153,4 @@ iTextPDF Library
 CSV File Handling
 
 Console-based Execution
+
