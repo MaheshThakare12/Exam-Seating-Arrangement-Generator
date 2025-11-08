@@ -1,170 +1,154 @@
 🏫 Exam-Seating-Arrangement-Generator
 
-A Java-based console application that automates the process of generating exam hall seating arrangements.
-This project reads student and hall data from CSV files, allocates seats intelligently, and exports the final seating plan as a PDF using the iTextPDF library.
+A Java-based automation system for generating exam hall seating arrangements.
+The project reads student and subject data from CSV files, automatically allocates seats for both common subjects and branch-only subjects, and exports the final seating plan as PDF reports using the iTextPDF library.
 
-Developed as a college mini-project, this system demonstrates Object-Oriented Programming (OOP) concepts and uses Apache Maven for build automation and dependency management.
+Built with Apache Maven, this project demonstrates practical Object-Oriented Programming (OOP) principles applied to a real-world academic management task.
 
 ✨ Features
 
-📂 Reads student and exam hall data from CSV files
+📂 CSV Input Integration — Reads student and subject details from CSV files
 
-🧮 Automatically assigns students to exam halls based on hall capacity
+🧮 Automated Seat Allocation — Handles both common and branch-specific subject arrangements
 
-🪑 Supports multiple halls and flexible seating configurations
+🏫 Multi-Room Management — Allocates students across multiple exam halls with invigilator assignment
 
-📄 Generates neat PDF reports of the seating arrangement using iTextPDF
+📄 PDF Report Generation — Creates professional PDFs using iTextPDF, including student details, room lists, and subject info
 
-⚙️ Built using Apache Maven for easy build and dependency handling
+⚙️ Maven Build Automation — Easily compile and run via Apache Maven
 
-🧠 Implements clean OOP design for easy extension and maintenance
+🧠 Strong OOP Design — Modular code structure, easy to extend
 
 💡 Object-Oriented Concepts Used
 
-Classes and Objects — Student, ExamHall, Seat, Allocator, etc.
+Classes & Objects — Representing Students, Subjects, Halls, and Allocators
 
-Inheritance — Shared behavior for different allocation strategies
+Inheritance — For handling common vs branch-specific subjects
 
-Polymorphism — Customizable seating logic
+Encapsulation — Controlled access to student data
 
-Encapsulation — Data protection via private attributes and getters/setters
+Abstraction — Simplified seat assignment logic via separate services
 
-Abstraction — Simplified interface for seat allocation
+Polymorphism — Different allocation rules for different subject types
 
-Exception Handling — Graceful handling of invalid CSV data or missing files
+Exception Handling — Managing invalid data and I/O errors gracefully
 
-File Handling — Reading CSV inputs and writing PDF outputs
+File Handling & I/O — Reading CSV inputs and generating PDF outputs
 
-Collections Framework — Efficient data handling with Lists and Maps
+Multithreading (optional) — Can be extended to parallelize allocation generation
 
 📁 Project Structure
-exam-seating-generator/
+Exam-Seating-Arrangement-Generator/
 │
-├── pom.xml                    # Maven project configuration (includes iTextPDF dependency)
+├── pom.xml                          # Maven configuration (includes iTextPDF dependency)
 ├── data/
-│   ├── students.csv           # Input student data
-│   └── halls.csv              # Input exam hall data
+│   ├── students.csv                 # Input student data
+│   ├── subjects.csv                 # Input subject data
+│
+├── output/
+│   ├── ExamAllocation-Common-Subjects.pdf
+│   └── ExamAllocation-Branch-Only-Subjects.pdf
 │
 ├── src/
-│   ├── main/
-│   │   └── java/
-│   │       ├── model/
-│   │       │   ├── Student.java
-│   │       │   ├── ExamHall.java
-│   │       │   └── Seat.java
-│   │       ├── service/
-│   │       │   ├── CSVReader.java
-│   │       │   ├── AllocationService.java
-│   │       │   └── PDFGenerator.java
-│   │       └── main/
-│   │           └── Main.java   # Entry point
-│   └── test/
-│       └── java/
-│           └── ... (if tests implemented)
+│   ├── main/java/
+│   │   ├── model/
+│   │   │   ├── Student.java
+│   │   │   ├── Subject.java
+│   │   │   ├── ExamHall.java
+│   │   │   └── Invigilator.java
+│   │   ├── service/
+│   │   │   ├── CSVReader.java
+│   │   │   ├── SeatAllocator.java
+│   │   │   └── PDFGenerator.java
+│   │   └── main/
+│   │       └── ExamSystemExcelPDF.java   # Main entry point
+│   └── test/java/
+│       └── ...
 └── README.md
 
 ⚙️ Requirements
 
-Java JDK 8 or newer
+Java JDK 8+
 
 Apache Maven 3.6+
 
-iTextPDF library (auto-managed by Maven)
+iTextPDF 5.5+ (added via Maven dependency)
 
 🚀 Build & Run (Maven)
 
-1. Compile the project:
+1️⃣ Compile the project
 
 mvn clean compile
 
 
-2. Package into a JAR:
+2️⃣ Package it
 
 mvn package
 
 
-3. Run the program:
+3️⃣ Run the main program
 
-java -cp target/exam-seating-generator-1.0-SNAPSHOT.jar main.Main
-
-
-The app will read data from students.csv and halls.csv, generate the seating arrangement, and produce a SeatingArrangement.pdf file.
-
-🧩 How It Works
-
-The program reads student and hall data from CSV files located in the data/ directory.
-
-Each hall’s capacity and each student’s roll number or ID are processed.
-
-Students are automatically assigned to halls based on available seats.
-
-The final arrangement is formatted into a professional PDF report using iTextPDF.
-
-The generated PDF file is stored in the output/ folder.
-
-🧠 Example Workflow
-
-Input CSV files:
-
-students.csv
-
-RollNo,Name
-101,Mahesh Thakare
-102,Ananya Sharma
-103,Raj Patel
-104,Simran Kaur
+java -cp target/exam-seating-generator-1.0-SNAPSHOT.jar main.ExamSystemExcelPDF
 
 
-halls.csv
+The program will read CSV data, allocate seats, and create two PDF reports:
 
-HallID,Capacity
-A1,2
-B1,2
+ExamAllocation-Common-Subjects.pdf
 
+ExamAllocation-Branch-Only-Subjects.pdf
 
-Console Output:
+🧩 Output Overview
+🧠 Common Subjects Allocation
 
-Reading student data...
-Reading hall data...
-Allocating seats...
-✅ Seating arrangement generated successfully!
-PDF file created: output/SeatingArrangement.pdf
+Generated file: ExamAllocation-Common-Subjects.pdf
+Covers shared subjects like Mathematics, Physics, Chemistry, Engineering Mechanics, etc.
+Each page lists:
 
+Subject name, duration, and date/time
 
-Generated PDF:
+Hall number and invigilator
 
--------------------------------
-      Exam Seating Plan
--------------------------------
+Allocated student list (with PRN, name, and branch)
 
-Hall A1:
-  101 - Mahesh Thakare
-  102 - Ananya Sharma
+ExamAllocation-Common-Subjects
 
-Hall B1:
-  103 - Raj Patel
-  104 - Simran Kaur
+🧑‍🏫 Branch-Only Subjects Allocation
 
-📈 Technologies Used
+Generated file: ExamAllocation-Branch-Only-Subjects.pdf
+Includes department-specific subjects such as:
 
-Java 8+
+Civil Engineering: Structural Mechanics, Surveying
+
+Mechanical Engineering: Thermodynamics, Machine Design
+
+IT: Data Structures, Web Technologies
+Each hall section displays the branch, subject, invigilator, and student details
+
+ExamAllocation-Branch-Only-Subj…
+
+🧠 Example Snippet (Generated via iTextPDF)
+Exam Hall Allocation — Branch Only Subjects
+
+Civil Engineering:
+Structural Mechanics — 3 hours — 28-06-2025 09:00 AM
+Surveying — 3 hours — 30-06-2025 09:00 AM
+
+Room 501 | Invigilator: Prof. Kirti Nair
+--------------------------------------------------
+Name          PRN         Branch
+Kunal Sethi   CI250401    Civil
+Kyra Sharma   CI250402    Civil
+Lakshya Raut  CI250403    Civil
+...
+
+🧱 Technologies Used
+
+Java (OOP Concepts)
 
 Apache Maven
 
-iTextPDF (for generating PDF files)
+iTextPDF Library
 
-CSV Handling (FileReader / BufferedReader)
+CSV File Handling
 
-OOP Concepts
-
-🔧 Future Improvements
-
-Add subject-wise or department-wise seat allocation
-
-Implement a GUI (Swing/JavaFX) to visualize hall layouts
-
-Export reports in Excel (XLSX) format
-
-Integrate invigilator assignment and exam timing schedule
-
-Include QR codes or seat labels in the PDF
+Console-based Execution
