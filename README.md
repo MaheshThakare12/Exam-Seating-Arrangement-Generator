@@ -17,7 +17,7 @@ Built with Apache Maven, this project demonstrates practical Object-Oriented Pro
 
 ⚙️ Maven Build Automation — Easily compile and run via Apache Maven
 
-🧠 Strong OOP Design — Modular code structure, easy to extend
+🧠 Strong OOP Design — Modular, extensible, and easy to maintain
 
 💡 Object-Oriented Concepts Used
 
@@ -27,13 +27,13 @@ Inheritance — For handling common vs branch-specific subjects
 
 Encapsulation — Controlled access to student data
 
-Abstraction — Simplified seat assignment logic via separate services
+Abstraction — Simplified seat assignment logic through service classes
 
 Polymorphism — Different allocation rules for different subject types
 
-Exception Handling — Managing invalid data and I/O errors gracefully
+Exception Handling — Gracefully manages invalid data and file errors
 
-File Handling & I/O — Reading CSV inputs and generating PDF outputs
+File Handling & I/O — Reads CSV input and generates PDF outputs
 
 Multithreading (optional) — Can be extended to parallelize allocation generation
 
@@ -75,23 +75,17 @@ Apache Maven 3.6+
 iTextPDF 5.5+ (added via Maven dependency)
 
 🚀 Build & Run (Maven)
-
 1️⃣ Compile the project
-
 mvn clean compile
 
-
 2️⃣ Package it
-
 mvn package
 
-
 3️⃣ Run the main program
-
 java -cp target/exam-seating-generator-1.0-SNAPSHOT.jar main.ExamSystemExcelPDF
 
 
-The program will read CSV data, allocate seats, and create two PDF reports:
+The program reads CSV data, allocates seats, and creates two PDF reports:
 
 ExamAllocation-Common-Subjects.pdf
 
@@ -100,31 +94,37 @@ ExamAllocation-Branch-Only-Subjects.pdf
 🧩 Output Overview
 🧠 Common Subjects Allocation
 
-Generated file: ExamAllocation-Common-Subjects.pdf
-Covers shared subjects like Mathematics, Physics, Chemistry, Engineering Mechanics, etc.
-Each page lists:
+Generated File: ExamAllocation-Common-Subjects.pdf
+Includes shared subjects like Mathematics, Physics, Chemistry, Engineering Mechanics, etc.
 
-Subject name, duration, and date/time
+Each page contains:
+
+Subject name, duration, and exam date/time
 
 Hall number and invigilator
 
-Allocated student list (with PRN, name, and branch)
-
-ExamAllocation-Common-Subjects
+Student list (PRN, Name, Branch)
 
 🧑‍🏫 Branch-Only Subjects Allocation
 
-Generated file: ExamAllocation-Branch-Only-Subjects.pdf
-Includes department-specific subjects such as:
+Generated File: ExamAllocation-Branch-Only-Subjects.pdf
+Covers department-specific subjects such as:
 
-Civil Engineering: Structural Mechanics, Surveying
+Civil Engineering — Structural Mechanics, Surveying
 
-Mechanical Engineering: Thermodynamics, Machine Design
+Mechanical Engineering — Thermodynamics, Machine Design
 
-IT: Data Structures, Web Technologies
-Each hall section displays the branch, subject, invigilator, and student details
+IT — Data Structures, Web Technologies
 
-ExamAllocation-Branch-Only-Subj…
+Each section displays:
+
+Branch name
+
+Subject info
+
+Invigilator name
+
+Student list with PRN and branch details
 
 🧠 Example Snippet (Generated via iTextPDF)
 Exam Hall Allocation — Branch Only Subjects
@@ -152,4 +152,3 @@ iTextPDF Library
 CSV File Handling
 
 Console-based Execution
-
